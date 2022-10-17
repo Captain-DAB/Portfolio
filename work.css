@@ -36,7 +36,7 @@ li a:hover {
     transition: transform 250ms ease-in-out;
 }
 .jumbotron {
-    background-image: url(/home.jpeg);
+    background-image: url(./image/home.jpeg);
     background-size: cover;
     background-position: center;
     color: #ffffff;
